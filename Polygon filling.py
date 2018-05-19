@@ -1,3 +1,4 @@
+import Functions_lib
 from graphics import *
 import numpy as np
 import time
