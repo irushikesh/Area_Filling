@@ -8,4 +8,12 @@ Link to aricle : https://www.sciencedirect.com/science/article/pii/0895717790900
 
 Result:
 ![alt text](https://github.com/irushikesh/Area_Filling/blob/master/Area_fiiling_image_1.jpg)
+
+
+All the codes are written for area filling fractal which can fill any polygon.
+Graphihcs.py developed by John Zelle is used in this project to draw the fractal. 
+
+Graphihcs.py : http://mcsp.wartburg.edu/zelle/python/graphics.py
+
+Result for the concave polygon area (C=0.3)
 ![alt text](https://github.com/irushikesh/Area_Filling/blob/master/area_filling_2.png)
