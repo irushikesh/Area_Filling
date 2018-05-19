@@ -8,3 +8,4 @@ Link to aricle : https://www.sciencedirect.com/science/article/pii/0895717790900
 
 Result:
 ![alt text](https://github.com/irushikesh/Area_Filling/blob/master/Area_fiiling_image_1.jpg)
+![alt text](https://github.com/irushikesh/Area_Filling/blob/master/Area_fiiling_image_2.jpg)
