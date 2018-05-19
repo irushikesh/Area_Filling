@@ -10,10 +10,10 @@ Result:
 ![alt text](https://github.com/irushikesh/Area_Filling/blob/master/Area_fiiling_image_1.jpg)
 
 
-All the codes are written for dendritic shape fractal which can feel polygon (convex and concave).
-Graphihcs.py developed by John Zelle is used in this project to draw the fractal. 
+All the codes are written for dendritic shape fractal which can fill polygon (convex and concave).
+graphics.py library developed by John Zelle is used in this projecct.
 
-Graphihcs.py : http://mcsp.wartburg.edu/zelle/python/graphics.py
+graphics.py : http://mcsp.wartburg.edu/zelle/python/graphics.py
 
 Result for the concave polygon area (C=0.3)
 ![alt text](https://github.com/irushikesh/Area_Filling/blob/master/area_filling_2.png)
